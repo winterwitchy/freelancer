@@ -53,7 +53,7 @@ This project relies on **custom implementation of core data structures** rather 
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/winterwitchy/freelancer.git
+    git clone https://github.com/winterwitchy/freelancer
     cd freelancer
     ```
 
